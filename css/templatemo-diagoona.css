@@ -372,4 +372,6 @@ textarea {
 .imgsst {
     margin-top: -50px;
     border-radius: 0 15px;
+    width: 335px;
+    height: 335px;
 }
